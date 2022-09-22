@@ -1,2 +1,4 @@
 Olá meu nome é Carlos Henrique Alves Sousa
 Essa e a segunda linha de codigo
+Digitar e-mail
+Inserir senha
